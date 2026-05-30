@@ -59,6 +59,12 @@ Email: chittalwarparth@gmail.com
 
 ---
 
+## 📄 Resume
+
+[View Resume](./Parth_S_Chittalwar_Resume.pdf)
+
+---
+
 ## Motto
 Build • Code • Innovate
 
