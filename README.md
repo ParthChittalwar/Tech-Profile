@@ -1,5 +1,5 @@
 # Parth Santosh Chittalwar
-### Full Stack Developer | C++ | Systems | Portfolio
+### Computer Technology Student | Software Development | Problem Solving
 
 Priyadarshini College of Engineering, Nagpur  
 Computer Technology (2024–2028)
@@ -22,17 +22,33 @@ Core: DSA, OOP
 ---
 
 ## Current Focus
-- Data Structures and Algorithms (C++)  
-- Backend fundamentals  
-- Real-world project building  
-- Open source contribution  
+
+- Data Structures & Algorithms
+- Modern Web Technologies
+- Software Engineering Fundamentals
+- Cloud & AI Technologies
+- Open Source Learning
 
 ---
 
 ## Projects
-- Full Stack Web Applications  
-- C++ DSA Implementations  
-- Game Development Experiments  
+
+- Personal Portfolio Website
+- Student Management System
+- DSA Problem Solving Repository
+- MERN Stack Applications
+- AI-Powered Web Projects
+---
+
+## Engineering Interests
+
+- Software Engineering
+- System Design
+- Web Development
+- App Development
+- Game Development
+- Artificial Intelligence
+- Cloud Computing
 
 ---
 
