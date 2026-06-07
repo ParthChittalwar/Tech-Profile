@@ -8,7 +8,7 @@ Computer Technology (2024–2028)
 
 ## Tech Stack
 Languages: C, C++, JavaScript  
-Frontend: HTML, CSS  
+Frontend: HTML, CSS , JS , React 
 Tools: Git, GitHub, VS Code  
 Core: DSA, OOP  
 
