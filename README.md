@@ -1,4 +1,4 @@
-# Parth Santosh Chittalwar 
+# Parth Santosh Chittalwar
 ### Computer Technology Student | Software Development | Problem Solving
 
 Priyadarshini College of Engineering, Nagpur  
