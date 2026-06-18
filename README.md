@@ -67,7 +67,7 @@ Email: chittalwarparth@gmail.com
 
 ## PortFolio 
 
-[View](https://parth-portfolio.chittalwarsantosh.workers.dev/)
+[View](https://portfolio-5yf.pages.dev/)
 
 ## Motto
 Build • Code • Innovate
