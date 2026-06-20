@@ -17,7 +17,7 @@ Core: DSA, OOP
 ## What I Build
 - Full stack web applications  
 - Logic-intensive systems in C++  
-- Interactive apps and basic game systems  
+- Interactive apps and basic game systems
 
 ---
 
@@ -38,6 +38,7 @@ Core: DSA, OOP
 - DSA Problem Solving Repository
 - MERN Stack Applications
 - AI-Powered Web Projects
+- Advaanced Workforce Managenment System
 ---
 
 ## Engineering Interests
@@ -67,7 +68,7 @@ Email: chittalwarparth@gmail.com
 
 ## PortFolio 
 
-[View](https://portfolio-5yf.pages.dev/)
+[View](https://portfolio-5yf.pages.dev/) 
 
 ## Motto
 Build • Code • Innovate
