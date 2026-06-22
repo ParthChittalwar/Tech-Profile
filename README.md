@@ -26,7 +26,6 @@ Core: DSA, OOP, OS, DBMS, CN
 - Data Structures & Algorithms
 - Modern Web Technologies
 - Software Engineering Fundamentals
-- Cloud & AI Technologies
 - Open Source Learning
 
 ---
@@ -39,6 +38,7 @@ Core: DSA, OOP, OS, DBMS, CN
 - MERN Stack Applications
 - AI-Powered Web Projects
 - Advaanced Workforce Managenment System
+- EVM Learning Simulator 
 ---
 
 ## Engineering Interests
