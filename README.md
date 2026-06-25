@@ -48,7 +48,6 @@ Core: DSA, OOP, OS, DBMS
 - Web Development
 - App Development
 - Game Development
-- Artificial Intelligence
 - Cloud Computing
 
 ---
