@@ -26,7 +26,7 @@ Core: DSA, OOP, OS, DBMS
 - Data Structures & Algorithms
 - Modern Web Technologies
 - Software Engineering Fundamentals
-- Open Source 
+- Open Source Learning 
 
 ---
 
