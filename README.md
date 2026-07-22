@@ -10,7 +10,7 @@ Computer Technology (2024–2028)
 Languages: C, C++, JavaScript 
 Frontend: HTML, CSS , JS , React  
 Tools: Git, GitHub, VS Code  
-Core: DSA, OOP, OS, DBMS , CN
+Core: DSA, OOP, OS, DBMS
 
 ---
 
